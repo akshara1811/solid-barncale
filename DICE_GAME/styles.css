@@ -1,0 +1,32 @@
+body
+{
+  background-color: #393e46;
+  text-align: center;
+}
+h1
+{
+  padding-top: 50px;
+  color: #2fc4b2;
+  font-family: 'Acme', sans-serif;
+  font-size: 5rem;
+}
+img
+{
+  height: 250px;
+  width: 250px;
+}
+.container
+{
+  text-align: center;
+  padding-left: 300px;
+  padding-top: 50px;
+}
+h3
+{
+  color: #2fc4b2;
+  font-family: 'Indie Flower', cursive;
+}
+.cont1
+{
+  padding-right: 20px;
+}
